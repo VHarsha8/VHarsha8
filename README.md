@@ -1,4 +1,4 @@
-# Brian Ruiz
+# Harshavardhan
 
 [![GitHub](https://img.shields.io/badge/-GITHUB-black?style=flat-square&logo=github)](https://github.com/VHarsha8)
 [![GitLab](https://img.shields.io/badge/-GITLAB-orange?style=flat-square&logo=gitlab)](https://gitlab.com/yourusername)
