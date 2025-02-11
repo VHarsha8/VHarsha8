@@ -7,9 +7,10 @@
 <h2 align="left">Heyy! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <!-- About Section -->
-<p align="center" width= "30px">
-  I'm <strong>Harshavardhan</strong>, a passionate developer interested in Web Development, Cybersecurity, and Machine Learning.
+<p align="center">
+  <strong><span style="font-size: 24px;">I'm Your Name</span></strong>, a passionate developer interested in Web Development, Cybersecurity, and Machine Learning.
 </p>
+
 
 <!-- Social Links -->
 <p align="center">
