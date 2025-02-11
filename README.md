@@ -4,7 +4,7 @@
 </p>
 
 <!-- Greeting -->
-<h2 align="center">Heyy! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="left">Heyy! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <!-- About Section -->
 <p align="center">
