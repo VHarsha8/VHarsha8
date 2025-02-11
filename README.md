@@ -8,7 +8,7 @@
 
 <!-- About Section -->
 <p align="center">
-  I'm <strong>Your Name</strong>, a passionate developer interested in Web Development, Cybersecurity, and Machine Learning.
+  I'm <strong>Harshavardhan</strong>, a passionate developer interested in Web Development, Cybersecurity, and Machine Learning.
 </p>
 
 <!-- Social Links -->
