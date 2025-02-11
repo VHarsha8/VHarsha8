@@ -1,8 +1,3 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HRS8/HRS8/main/banner.png" alt="Banner Image" width="100%">
-</p>
-
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VHarsha8&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
