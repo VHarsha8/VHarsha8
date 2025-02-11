@@ -8,7 +8,7 @@
 
 <!-- About Section -->
 <p align="center">
-  <strong><span style="font-size: 44 px;">I'm Harshavardhan</span></strong>, a passionate developer interested in Web Development, Cybersecurity, and Machine Learning.
+  <strong><span style="font-size: 44px;">I'm Harshavardhan</span></strong>, a passionate developer interested in Web Development, Cybersecurity, and Machine Learning.
 </p>
 
 
