@@ -1,8 +1,6 @@
-# HRS8/README.md
+![Visitor Count](https://github.com/VHarsha8/)
 
-Profile views 1,064
-
-Heyyy!
+Hello!
 
 Myself Harsha, CSE undergrad in India. I am very much invested in Web development, interested in Blockchain and AI, Learning Flutter currently. Currently working as a SDE Intern at Nayagadi, Had participated in multiple Hackathons so far... and won a few of them. As a student, I like to fiddle around and learn. As a member of Communities, I like to contribute my knowledge and learnings to the willing.
 
